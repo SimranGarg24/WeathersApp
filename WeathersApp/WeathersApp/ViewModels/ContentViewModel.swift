@@ -7,7 +7,7 @@
 
 import Foundation
 import SwiftUI
-
+//comment
 final class ContentViewModel: ObservableObject{
     
     //MARK: Properties
